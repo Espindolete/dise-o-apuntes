@@ -1,10 +1,3 @@
-SE VIENEEEE
-guarda 
-gordo se viene🫵
-
-ya no entra PUDS
-
-
 
 QUE HAY Q LEER
 MANUAL DE REFERENCIA CAP 1 2 Y 3
