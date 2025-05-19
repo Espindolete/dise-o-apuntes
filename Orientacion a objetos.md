@@ -191,12 +191,59 @@ En OO el tipo es igual a una clase
 yo siento q no necesito esto asi q no anoto
 
 POLIMORFISMO
-que una variable pueda ser del tipo de sus hijos 
-un operacion puede resolverse de la distinta forma depende de quien la reciba
+	que una variable pueda ser del tipo de sus hijos 
+	un operacion puede resolverse de la distinta forma depende de quien la reciba
+
+SOBRECARGA
+	definir mas d eun metodo por cada mensaje, los tipos de  los argumentos ayudana decidir a que mensaje se invoca
 
 
+DISEÑO ORIENTADO A OBJETOS segun booch
+- descompsocicion orientada a objetos es la diferencia central con el diseño estructurado (clases vs algortimo)
+- "es un metodo de diseño que abarca el proceso de descomposicion orientada a obejt y una notacion etc etc"
 
 
+FASE EXPLORATORIA INICIAL DE OBJETOS
+identificar:
+1. clases
+	
+	- conocimiento gral del dominio del problema
+	- sistemas anteriores similares
+	- modelos de negocio q puedan analizarse y que esten en relacion con el dominio bajo estudio
+	- sesiones de [[tarjetas CRC]]
+	- glosarios de terminos
+	- Analisis gramatical de enunciado del dominio del problema <- esta es  la q mas se usa en clase en gral
+
+Identificar clases:
+- Elegir nombres de class cuidadosamente
+- describir su proposito
+
+2. responsabilidades
+	Identificar resp
+	- para las clases deben determinarse sus responsabilidades
+	- encontrar responsabilidades(gralmente verbos), pueden proceder de distintas fuentes(CUs requerimientos adicionales, proposito de clases)
+	- algunas opciones son
+		- identificar las reponsabilidades del sistema declaras o impl en los Cu
+		- cubrir los huecos en los CU y otras descripciones del sistema con resp adicionales a nivel inferior
+		- ident responsabilidades para apoyar las relaciones y dependencia entre los candidtaos
+	ejercicio "rapido":
+		a q obj le corresponden las responsabilidades
+			1. contener objetos sin que se ccaigan(taza, tapper  )
+			2. soportar el peso de cosas
+			3. etc
+			4. etc
+			5. etc
+			6. era la mochila
+	- las resp 
+	- NO COPIE ESTO POR HACER MEMES
+3. colaboraciones
+	- las clases pueden cumplir sus resp realizando las operaciones por si solas o colab con otras clases
+	- para encontrar colabs
+		- es la clase capaz de cumplir sus resp por si misma?, sino de q otra clase necesita
+		- q otra clase neceita utilzar las resp de esta clase
+	- las clases q no participan en ninguna colaboracion son sospechosas y normalmente se descartan
+	- ((alguien pregunto algo q no se entendio un carajo) colaboraciones dentro y fuera del sistema es posible)
+	- 
  
 
-etc etc si no sabes POO anda a leer en otro lado q Gaona no explica muy bien
+etc etc si no sabes POO anda a leer en otro lado q Gaona es un hdp ()

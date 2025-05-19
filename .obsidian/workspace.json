@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design thinking.md",
+                "file": "UML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design thinking"
+              "title": "UML"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 201.5110321044922
   },
   "right": {
     "id": "5af836eb11af9d4b",
@@ -142,17 +142,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design thinking.md",
+                "file": "UML.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Design thinking"
+              "title": "Outline of UML"
+            }
+          },
+          {
+            "id": "9be26b102bfe35d2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -165,18 +175,23 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9f95275585a3e7d",
+  "active": "99025917bf9a3627",
   "lastOpenFiles": [
-    "Pasted image 20250430193320.png",
-    "Patrones.md",
+    "UML.md",
+    "Untitled.md",
+    "Pasted image 20250514191749.png",
     "Orientacion a objetos.md",
     "GUI.md",
+    "Tarjetas CRC.md",
+    "Patrones.md",
+    "Untitled 1.md",
     "Design thinking.md",
+    "Pasted image 20250430193320.png",
     "2025-04-30.md",
-    "UML.md",
     "Pasted image 20250430193254.png"
   ]
 }
